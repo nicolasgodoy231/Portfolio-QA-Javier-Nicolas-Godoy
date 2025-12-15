@@ -1,20 +1,3 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-
-/**
- * copyright 2022 @codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
   /**
@@ -175,6 +158,10 @@ article {
   z-index: 1;
 }
 
+.main-content > article:not(:last-child) {
+  margin-bottom: 30px;
+}
+
 .separator {
   width: 100%;
   height: 1px;
@@ -321,7 +308,7 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 405px; }
+.sidebar.active { max-height: 490px; }
 
 .sidebar-info {
   position: relative;
@@ -556,61 +543,7 @@ main {
 }
 
 
-/**
- * #testimonials 
- */
 
-.testimonials { margin-bottom: 30px; }
-
-.testimonials-title { margin-bottom: 20px; }
-
-.testimonials-list {
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  gap: 15px;
-  margin: 0 -15px;
-  padding: 25px 15px;
-  padding-bottom: 35px;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  overscroll-behavior-inline: contain;
-  scroll-snap-type: inline mandatory;
-}
-
-.testimonials-item {
-  min-width: 100%;
-  scroll-snap-align: center;
-}
-
-.testimonials-avatar-box {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translate(15px, -25px);
-  background: var(--bg-gradient-onyx);
-  border-radius: 14px;
-  box-shadow: var(--shadow-1);
-}
-
-.testimonials-item-title { margin-bottom: 7px; }
-
-.testimonials-text {
-  color: var(--light-gray);
-  font-size: var(--fs-6);
-  font-weight: var(--fw-300);
-  line-height: 1.6;
-  display: -webkit-box;
-  line-clamp: 4;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-
-/**
- * #testimonials-modal
- */
 
 .modal-container {
   position: fixed;
@@ -956,7 +889,7 @@ main {
 .project-img {
   position: relative;
   width: 100%;
-  height: 200px;
+  height: auto;
   border-radius: 16px;
   overflow: hidden;
   margin-bottom: 15px;
@@ -1026,7 +959,40 @@ main {
   font-weight: var(--fw-300);
 }
 
+/* Wrapper para título + ícono de docs alineados */
+.project-title-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 10px 8px 10px;
+}
 
+/* Estilo del ícono de documentación */
+.docs-link {
+  color: var(--orange-yellow-crayola);
+  font-size: 22px;
+  opacity: 0.7;
+  transition: var(--transition-1);
+}
+
+.docs-link:hover {
+  opacity: 1;
+  transform: scale(1.15);
+  color: var(--orange-yellow-crayola);
+}
+
+/* Hace que todo el card (excepto el ícono de docs) lleve a la app */
+.project-live-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* El ícono de docs queda encima del enlace vivo */
+.docs-link {
+  position: relative;
+  z-index: 2;
+}
 
 
 
@@ -1114,6 +1080,76 @@ main {
   line-height: 1.6;
 }
 
+
+/* Wrapper para título + ícono de docs alineados */
+.project-title-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 10px 8px 10px;
+}
+
+/* Estilo del ícono de documentación */
+.docs-link {
+  color: var(--orange-yellow-crayola);
+  font-size: 22px;
+  opacity: 0.7;
+  transition: var(--transition-1);
+}
+
+.docs-link:hover {
+  opacity: 1;
+  transform: scale(1.15);
+  color: var(--orange-yellow-crayola);
+}
+
+/* Hace que todo el card (excepto el ícono de docs) lleve a la app */
+.project-live-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* El ícono de docs queda encima del enlace vivo */
+.docs-link {
+  position: relative;
+  z-index: 2;
+}
+
+
+
+
+
+/*-----------------------------------*\
+  #PROJECT DOCUMENTATION LINK
+\*-----------------------------------*/
+
+.project-docs-wrapper {
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.project-docs-link {
+  color: var(--orange-yellow-crayola); /* Color amarillo del tema */
+  font-size: var(--fs-6);
+  font-weight: var(--fw-400);
+  transition: var(--transition-1);
+}
+
+.project-docs-link:hover {
+  color: var(--light-gray); /* Cambia a gris claro al pasar el mouse */
+}
+
+
+/* Estilo para enlaces de LinkedIn y CV en la barra lateral */
+.contact-info .social-link {
+  color: var(--orange-yellow-crayola);
+  transition: var(--transition-1);
+}
+
+.contact-info .social-link:hover {
+  color: var(--light-gray);
+}
 
 
 
@@ -1348,7 +1384,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .info_more-btn {
     top: -30px;
     right: -30px;
-    padding: 10px 15px;
+    padding: 15px 25px;
   }
 
   .info_more-btn span {

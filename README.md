@@ -1,4 +1,4 @@
-# Portafolio de Testing Manual - Javier Nicolás Godoy
+# Portfolio de Testing Manual - Javier Nicolás Godoy
 
 ¡Hola! Soy Nicolás, un entusiasta del testing de software enfocado en QA manual. Este repositorio es mi portafolio personal, donde demuestro mis habilidades prácticas en la creación y ejecución de casos de prueba funcionales.
 

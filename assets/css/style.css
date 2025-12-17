@@ -1,3 +1,7 @@
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
 :root {
 
   /**
@@ -889,7 +893,7 @@ main {
 .project-img {
   position: relative;
   width: 100%;
-  height: auto;
+  height: 200px;
   border-radius: 16px;
   overflow: hidden;
   margin-bottom: 15px;

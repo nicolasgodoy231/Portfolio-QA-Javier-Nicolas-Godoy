@@ -1,11 +1,11 @@
 # 🚀 Portfolio de Proyectos QA - Javier Nicolás Godoy
 
-¡Bienvenido(a)! Soy **Javier Nicolás Godoy**, un QA Tester en formación y estudiante de Análisis de Sistemas, apasionado por la **calidad de software** y las **metodologías ágiles (Scrum)**.
+¡Hola! Soy **Javier Nicolás Godoy**, un QA Tester en formación y estudiante de Análisis de Sistemas.
 
-Este repositorio es el hogar de mi portafolio web personal, el cual resume mi perfil profesional, habilidades clave en *Testing Manual* y *Automatización*, experiencia laboral y proyectos destacados.
+Este es el repositorio de mi portafolio personal, el cual resume mi perfil profesional, habilidades clave en *Testing Manual* y *Automatización*, experiencia laboral y proyectos destacados.
 
-Puedes ver la versión *online* del portafolio aquí:
-[**Ver Portfolio Web Desplegado**](https://nicolasgodoy231.github.io/Portfolio-QA-Javier-Nicolas-Godoy/)
+Este es el link de mi portafolio:
+[**Portfolio Web Desplegado**](https://nicolasgodoy231.github.io/Portfolio-QA-Javier-Nicolas-Godoy/)
 
 ---
 
@@ -21,10 +21,10 @@ Mi enfoque se centra en asegurar la calidad de las aplicaciones web y móviles. 
 
 | Categoría | Habilidades y Herramientas |
 | :--- | :--- |
-| **QA Manual** | Diseño y Ejecución de Casos de Prueba, Pruebas Funcionales, Pruebas Exploratorias, Pruebas de Regresión, Reporte y Seguimiento de Bugs (**Severidad** y **Prioridad**). |
+| **QA Manual** | Diseño y Ejecución de Casos de Prueba, Pruebas Funcionales, Pruebas Exploratorias, Pruebas de Regresión, Reporte y Seguimiento de Errores (**Severidad** y **Prioridad**). |
 | **QA Automation** | Desarrollo de *scripts* automatizados con **Selenium**. |
 | **Metodología** | Trabajo bajo **Scrum**, Creación de Historias de Usuario y Criterios de Aceptación. |
-| **Documentación** | Creación de Planes de Pruebas y Evidencia. |
+| **Documentación** | Creación de Test Plan, Casos de Pruebas y Evidencia. |
 
 ---
 
@@ -37,7 +37,7 @@ En esta sección, podrás encontrar ejemplos concretos de mi trabajo en aseguram
 | **Mercado Libre** | **Manual (Web/Mobile)** | [Ir a Mercado Libre](https://www.mercadolibre.com.ar/) | [**Ver Repositorio/README Completo**](https://github.com/nicolasgodoy231/mercado-libre-qa-testing.git) |
 | **BarbeLink** | **Manual (Web/Mobile)** | [Ir a BarbeLink](https://barbelink.vercel.app) | [Ver Test Plan y Evidencia](https://github.com/nicolasgodoy231/Portfolio-QA-Javier-Nicolas-Godoy/tree/main/barbelink) |
 
-***¡Próximamente más proyectos de Automatización y Testing!***
+***¡Próximamente más proyectos!***
 
 ---
 
@@ -47,10 +47,17 @@ En esta sección, podrás encontrar ejemplos concretos de mi trabajo en aseguram
 
 * **QA Tester (Pasantía remota) - No Country**
     * *Enero 2025 — Marzo 2025*
-    * Diseño y ejecución de casos de prueba, identificación de defectos (severidad y prioridad), colaboración activa en dailys bajo el flujo de trabajo Scrum.
+    * Diseño y ejecución de casos de prueba.
+    * Identificación y reporte de defectos con su asignación de severidad y prioridad, con sus pasos para reproducir.
+    * Creación de documentación de test plan, historias de usuario y criterios de aceptación.
+    * Participación activa en reuniones diarias (dailys), colaborando de forma efectiva con el equipo en el flujo de trabajo Scrum.
+
 * **QA Tester (Presencial) - Proyecto Nahual**
     * *Julio 2023 — Octubre 2023*
-    * Diseño y ejecución de pruebas funcionales, exploratorias y de regresión, reporte de defectos.
+    *	Diseño y ejecución de casos de prueba con documentación de resultados.
+    *	Identificación y reporte de defectos con su asignación de severidad y prioridad, con sus pasos para reproducir.
+    *	Pruebas de regresión.
+
 
 ### Educación y Cursos
 
@@ -69,7 +76,3 @@ Si tienes alguna oportunidad de empleo, colaboración o simplemente quieres cone
 * **Ubicación:** Lomas de Zamora, Buenos Aires, Argentina
 * **LinkedIn:** [Javier Nicolás Godoy](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
 * **Currículum Vitae:** [Ver desde Google Drive](https://drive.google.com/file/d/14FeBrKoDvOaYU3aLjnG-2MeedGQ-83fl/view?usp=drive_link)
-
----
-
-¿Te gustaría que trabajemos en la plantilla del **Plan de Pruebas** para tu proyecto BarbeLink?

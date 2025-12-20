@@ -71,7 +71,7 @@ En esta sección, podrás encontrar ejemplos concretos de mi trabajo en aseguram
 
 Si tienes alguna oportunidad de empleo, colaboración o simplemente quieres conectar, no dudes en contactarme:
 
-* **Whatsapp:** (https://wa.me/5491176280738)
+* **Whatsapp:** [1176280738](https://wa.me/5491176280738)
 * **LinkedIn:** [Javier Nicolás Godoy](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
 * **Email:** [nicolasgodoy231@gmail.com](mailto:nicolasgodoy231@gmail.com)
 * **Currículum Vitae:** [Ver desde Google Drive](https://drive.google.com/file/d/14FeBrKoDvOaYU3aLjnG-2MeedGQ-83fl/view?usp=drive_link)

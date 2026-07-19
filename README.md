@@ -61,7 +61,7 @@ En esta sección, podrás encontrar ejemplos concretos de mi trabajo en aseguram
 
 ### Educación y Cursos
 
-* **Análista de Sistemas** - *Instituto de Formación Técnica Superior N°11* (2025 - en curso)
+* **Análista de Sistemas** - *Instituto Superior de Formación Técnica N°172 - Alan Turing* (2026 - en curso)
 * **Automation Testing** - *Talento Tech* (2025)
 * **Testing de software** - *Proyecto Nahual* (2023)
 

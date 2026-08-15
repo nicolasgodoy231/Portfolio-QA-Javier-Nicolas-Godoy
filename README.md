@@ -47,10 +47,14 @@ En esta sección, podrás encontrar ejemplos concretos de mi trabajo en aseguram
 
 * **QA Tester (Pasantía remota) - No Country**
     * *Enero 2025 — Marzo 2025*
-    * Diseño y ejecución de casos de prueba.
-    * Identificación y reporte de defectos con su asignación de severidad y prioridad, con sus pasos para reproducir.
-    * Creación de documentación de test plan, historias de usuario y criterios de aceptación.
-    * Participación activa en reuniones diarias (dailys), colaborando de forma efectiva con el equipo en el flujo de trabajo Scrum.
+    *	Testing funcional y exploratorio: planificación y ejecución de pruebas sobre las funcionalidades principales, tanto durante el desarrollo como antes de las entregas.
+    *	Diseño de casos de prueba: creación de casos de prueba a partir de requerimientos funcionales, historias de usuario y criterios de aceptación.
+    *	Reporte y seguimiento de defectos: identificación, documentación y seguimiento de incidencias, incluyendo pasos para reproducirlas, severidad y prioridad.
+    *	Análisis de requerimientos: revisión de requerimientos y validación de que las funcionalidades desarrolladas cumplan con lo esperado.
+    *	Análisis funcional: detección de posibles mejoras en funcionalidades y flujos de la aplicación, aportando sugerencias desde la perspectiva del usuario.
+    *	Documentación: elaboración de Test Plans, casos de prueba, historias de usuario, criterios de aceptación y reportes de incidencias.
+    *	Trabajo con metodología Scrum: participación en dailys y colaboración con desarrollo durante las distintas etapas del proyecto.
+    *	Comunicación y trabajo en equipo: comunicación clara de problemas, observaciones y resultados de las pruebas, acompañando al equipo en la resolución de incidencias.
 
 * **QA Tester (Presencial) - Proyecto Nahual**
     * *Julio 2023 — Octubre 2023*

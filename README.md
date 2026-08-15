@@ -1,4 +1,4 @@
-# 🚀 Portfolio de Proyectos QA - Javier Nicolás Godoy
+# Portfolio de Proyectos QA - Javier Nicolás Godoy
 
 ¡Hola! Soy **Javier Nicolás Godoy**, un QA Tester en formación y estudiante de Análisis de Sistemas.
 
@@ -9,7 +9,7 @@ Este es el link de mi portafolio:
 
 ---
 
-## 🌟 Sobre Mí
+## Sobre Mí
 
 Mi enfoque se centra en asegurar la calidad de las aplicaciones web y móviles. Mis fortalezas incluyen:
 
@@ -67,11 +67,9 @@ En esta sección, podrás encontrar ejemplos concretos de mi trabajo en aseguram
 
 ---
 
-## 📬 Contacto
-
-Si tienes alguna oportunidad de empleo, colaboración o simplemente quieres conectar, no dudes en contactarme:
-
+## Contacto
 * **Whatsapp:** [1176280738](https://wa.me/5491176280738)
 * **LinkedIn:** [Javier Nicolás Godoy](https://www.linkedin.com/in/javier-nicol%C3%A1s-godoy-8427651b1/)
 * **Email:** [nicolasgodoy231@gmail.com](mailto:nicolasgodoy231@gmail.com)
-* **Currículum Vitae:** [Ver desde Google Drive](https://drive.google.com/file/d/14FeBrKoDvOaYU3aLjnG-2MeedGQ-83fl/view?usp=drive_link)
+* **Currículum Vitae:** [Ver desde Google Drive](https://drive.google.com/file/d/1jISxWjB4LDYPkm8-Uy4UxbyCwNEjo7im/view?usp=drive_link)
+* [**Mi Portfolio Web Desplegado**](https://nicolasgodoy231.github.io/Portfolio-QA-Javier-Nicolas-Godoy/)
